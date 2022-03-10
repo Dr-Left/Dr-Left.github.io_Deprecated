@@ -14,10 +14,10 @@ I'll just put up some of my notes here. That's all for now.
 
 ## Notes
 
-- [Sample](notes\note1.md)
+- [Sample](notes\note1.html)
 
-- [Uni-app note](notes\uni-app notes.md)
-- [中国近现代史纲要的笔记](notes\中国近现代史纲要 课堂笔记.md)
+- [Uni-app note](notes\uni-app notes.html)
+- [中国近现代史纲要的笔记](notes\中国近现代史纲要 课堂笔记.html)
 
 ## 电路原理's stuff
 
