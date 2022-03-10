@@ -14,9 +14,11 @@ I'll just put up some of my notes here. That's all for now.
 
 ## Notes
 
-- [Sample](./note1.md)
+- [Sample](notes\note1.md)
 
-- [Uni-app note](./uni-app notes.md)
+- [Uni-app note](notes\uni-app notes.md)
+- [中国近现代史纲要的笔记](notes\中国近现代史纲要 课堂笔记.md)
 
-- [中国近现代史纲要的笔记](中国近现代史纲要 课堂笔记.md)
+## 电路原理's stuff
 
+- [运放的仿真](notes/电路原理/电路原理仿真.md)
