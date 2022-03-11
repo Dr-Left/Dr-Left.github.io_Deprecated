@@ -10,7 +10,10 @@
     font-family: wenyue;
     src: url(../fonts/文悦新青年体.otf);
 }
-
+@font-face {
+    font-family: xingkai;
+    src: url(../fonts/云梦深深深几许.ttf);
+}
 html {
   font-family: "wenyue","Microsoft Yahei", sans-serif; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -496,6 +499,7 @@ header h2 {
 #main-content {
   float: left;
   width: 690px;
+  font-family: "xingkai","Monaco";
 }
 
 #main-content img {
