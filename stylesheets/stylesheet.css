@@ -641,7 +641,7 @@ form {
 #main-content h2 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', "wenyue","Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 22px;
+  font-size: 48px;
   font-weight: bold;
   color: #474747;
   text-indent: 4px;
@@ -657,7 +657,7 @@ form {
   margin-top: 24px;
   margin-bottom: 8px;
   font-family: 'Architects Daughter', "wenyue","Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 18px;
+  font-size: 36px;
   font-weight: bold;
   color: #474747;
   text-indent: 3px;
@@ -673,7 +673,7 @@ form {
 #main-content h4 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', "wenyue","Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 15px;
+  font-size: 24px;
   font-weight: bold;
   color: #474747;
   text-indent: 3px;
@@ -689,7 +689,7 @@ h4:before {
 #main-content h5 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', "wenyue","Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 14px;
+  font-size: 20px;
   color: #474747;
   text-indent: 3px;
 }
@@ -703,7 +703,7 @@ h5:before {
 #main-content h6 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', "wenyue","Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: .8em;
+  font-size: 18px;
   color: #474747;
   text-indent: 3px;
 }
@@ -729,7 +729,8 @@ p a {
 blockquote {
   padding: 0 0 0 30px;
   margin-bottom: 20px;
-  font-size: 14px !important;
+  color: #ccc;
+  font-size: 16px !important;
   border-left: 10px solid #e9e9e9;
 }
 
