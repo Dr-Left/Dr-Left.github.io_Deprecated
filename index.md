@@ -15,10 +15,16 @@ I'll just put up some of my notes here. That's all for now.
 ## Notes
 
 - [Sample](notes\note1.html)
-
 - [Uni-app note](notes\uni-app notes.html)
 - [中国近现代史纲要的笔记](notes\中国近现代史纲要 课堂笔记.html)
+- [形势与政策](./notes/形势与政策 笔记.html)
+- [宝玉石鉴赏](.\notes\宝玉石鉴赏 笔记.html)
+- [tennis](.\notes\网球.html)
 
 ## 电路原理's stuff
 
 - [运放的仿真](notes/电路原理/电路原理仿真.md)
+
+## 重要观点
+
+- [Imp. Perspective](.\notes\Imp. Perspective.html)
