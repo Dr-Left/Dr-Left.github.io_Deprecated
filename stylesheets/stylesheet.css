@@ -457,7 +457,7 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', "wenyue", "Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Architects Daughter', "Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
   line-height: 1 !important;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
@@ -499,7 +499,7 @@ header h2 {
 #main-content {
   float: left;
   width: 690px;
-  font-family: "Monaco","xingkai";
+  font-family: "Italic", "comic sans ms","xingkai";
 }
 
 #main-content img {
