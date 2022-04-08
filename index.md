@@ -24,7 +24,7 @@ I'll just put up some of my notes here. That's all for now.
 ## 电路原理's stuff
 
 - [运放的仿真](notes/Circuits/电路原理仿真.html)
-- [电路原理期中复习——思维导图](notes/Circuits/PrinciplesOfCircuits.html)
+- [电路原理期中复习——思维导图](notes/Circuits/PrinciplesOfCircuits_mid_term_reviewing.html)
 
 ## 重要观点
 
