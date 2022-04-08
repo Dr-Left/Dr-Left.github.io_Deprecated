@@ -23,8 +23,8 @@ I'll just put up some of my notes here. That's all for now.
 
 ## 电路原理's stuff
 
-- [运放的仿真](notes/电路原理/电路原理仿真.md)
-- [电路原理期中复习——思维导图](notes/电路原理/电路原理——期中复习.pdf)
+- [运放的仿真](notes/Circuits/电路原理仿真.html)
+- [电路原理期中复习——思维导图](notes/Circuits/PrinciplesOfCircuits.html)
 
 ## 重要观点
 
