@@ -624,7 +624,7 @@ form {
   margin-top: 0;
   margin-bottom: 0;
   font-family: 'Architects Daughter',"Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 2.8em;
+  font-size: 2.0em;
   font-weight: 600;
   color: #474747;
   text-indent: 6px;
@@ -641,7 +641,7 @@ form {
 #main-content h2 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', "Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 48px;
+  font-size: 36px;
   font-weight: bold;
   color: #474747;
   text-indent: 4px;
@@ -657,7 +657,7 @@ form {
   margin-top: 24px;
   margin-bottom: 8px;
   font-family: 'Architects Daughter', "Microsoft Yahei", 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 36px;
+  font-size: 28px;
   font-weight: bold;
   color: #474747;
   text-indent: 3px;
