@@ -33,6 +33,10 @@ I'll just put up some of my notes here. That's all for now.
 
 - [拍振的demo展示](./notes/GP/beat.html)
 
+## 微积分A(2)
+
+- [期末复习思维导图](notes\Calculus\微积分A(2)期末复习.html)
+
 ## 基物实验报告
 
 - [波尔](.\notes\Phys.Exp.Report\Damped and Forced Vibration_Chris Zuo_20220409.pdf)：吐了。
