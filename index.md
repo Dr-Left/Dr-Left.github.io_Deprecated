@@ -8,6 +8,8 @@ My name is Chris Zuo.
 
 > Actually why I am typing this paragraph is that I'm trying out my new keyboard. This is such a rubbish keyboard that I can hardly avoid mistakes in every single word!!!
 
+又是考试周。po一些内容。
+
 ## What‘s this website for?
 
 I'll just put up some of my notes here. That's all for now.
@@ -25,6 +27,7 @@ I'll just put up some of my notes here. That's all for now.
 
 - [运放的仿真](notes/Circuits/电路原理仿真.html)
 - [电路原理期中复习——思维导图](notes/Circuits/PrinciplesOfCircuits_mid_term_reviewing.html)
+- [电路原理期末复习-动态电路——思维导图](notes/Circuits/电路原理期末复习-动态电路.html)
 
 ## GP1
 
@@ -32,9 +35,9 @@ I'll just put up some of my notes here. That's all for now.
 
 ## 基物实验报告
 
-这东西真**烦人。写完了挂网上，聊以泄愤。各位想看的自取，但是基本的学术道德还是要有的。
-
-- [波尔](.\notes\Phys.Exp.Report\Damped and Forced Vibration_Chris Zuo_20220409.pdf)：你知道吗就这个鬼玩意我写了不下15个小时，吐了@#!%$*%&)!
+- [波尔](.\notes\Phys.Exp.Report\Damped and Forced Vibration_Chris Zuo_20220409.pdf)：吐了。
+- [弦振动](.\notes\Phys.Exp.Report\弦振动实验报告 左京伟 未央-电11 2021012328.pdf)：麻了。
+- 电磁感应：未做。
 
 ## 重要观点
 
