@@ -14,6 +14,10 @@ My name is Chris Zuo.
 
 I'll just put up some of my notes here. That's all for now.
 
+## 一些摘抄
+
+2022/6/19 基物考前3天，仍在摸鱼。读《爱因斯坦的宇宙》一书，以为妙绝，不禁喟然称叹，又复抚然，神情恍惚。[跳转](./notes/bookNotes/The Cosmic View of Albert Einstein.html)
+
 ## Notes
 
 - [Sample](notes\note1.html)
