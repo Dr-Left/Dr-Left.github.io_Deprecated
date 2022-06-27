@@ -18,6 +18,8 @@ I'll just put up some of my notes here. That's all for now.
 
 2022/6/19 基物考前3天，仍在摸鱼。读《爱因斯坦的宇宙》一书，以为妙绝，不禁喟然称叹，又复抚然，神情恍惚。[跳转](./notes/bookNotes/The Cosmic View of Albert Einstein.html)
 
+2022/6/27 星期一，晚上7点09分。暑假放假回家第三天。看完了她、他、他推荐的《阿尔吉侬的花束》(or *Flowers for Algernon* in English, actually I read the English version)，很想哭。但是不知道为什么长大之后已经丧失了这样一项如此重要的基本技能了。只感觉泪堵在胸口里面。做了一点摘抄，其实没啥用，权当管中窥豹。我希望我不要成为那些"laffing"的人，但无论如何我是不可能完全做到的。因为我不曾经历过IQ=68的阶段，像Charles一样。但，我只能说我尽量。另外，从某个角度上说，我也是Charles Gordon，但可惜我没有Algernon这只老鼠，这个在你和世界格格不入的时候，和你同样遭遇的frend. [跳转](./notes/bookNotes/Flowers for Algernon.html)
+
 ## Notes
 
 - [Sample](notes\note1.html)
