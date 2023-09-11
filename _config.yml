@@ -1,5 +1,7 @@
 # Setup
 name:         Chris Zuo's House
+domain:       dr-left.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url:          https://dr-left.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 locale:       "en"

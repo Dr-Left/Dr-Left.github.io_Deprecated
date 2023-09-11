@@ -14,6 +14,15 @@ My name is Chris Zuo.
 
 I'll just put up some of my notes here. That's all for now.
 
+## Tiny Research
+
+- [Markov Chain Applied in Tennis Competitions](./research/Markov_in_tennis.pdf)
+  This one is completely original. But the analysis is a little bit naive for a complex sports competition.
+
+- [Wireless Energy Transfer Experiment by Electromagnetic Induction](./research/wireless_transfer.pdf)
+  This one is more like a reproduce the experiment conducted in **Assawaworrarit, S., Yu, X. & Fan, S. Robust wireless power transfer using a nonlinear
+  parity-time-symmetric circuit. Nature 546, 387-390 (2017)*  
+
 ## 一些摘抄
 
 2022/6/19 基物考前3天，仍在摸鱼。读《爱因斯坦的宇宙》一书，以为妙绝，不禁喟然称叹，又复抚然，神情恍惚。[跳转](./notes/bookNotes/The Cosmic View of Albert Einstein.html)
